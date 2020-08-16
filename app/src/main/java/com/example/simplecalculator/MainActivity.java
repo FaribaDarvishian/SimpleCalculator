@@ -392,43 +392,5 @@ private Boolean check(){
         String[] strArray = str.split(" ");
         return strArray;
     }
-//    private void extractValueButton(View view) {
-//        int id = view.getId();
-//        switch (id) {
-//            case R.id.num_0:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "0");
-//                break;
-//            case R.id.num_1:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "1");
-//                break;
-//            case R.id.num_2:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "2");
-//                break;
-//            case R.id.num_3:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "3");
-//                break;
-//            case R.id.num_4:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "4");
-//                break;
-//            case R.id.num_5:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "5");
-//                break;
-//            case R.id.num_6:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "6");
-//                break;
-//            case R.id.num_7:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "7");
-//                break;
-//            case R.id.num_8:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "8");
-//                break;
-//            case R.id.num_9:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + "9");
-//                break;
-//            case R.id.point:
-//                mTxtViewShowProcess.setText(mTxtViewShowProcess.getText() + ".");
-//                break;
-//        }
-//    }
-
+//
 }
